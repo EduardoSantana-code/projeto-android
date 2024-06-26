@@ -1,9 +1,10 @@
 @charset "UTF-8";
 
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Biryani:wght@200&family=Noto+Serif+Armenian:wght@600&family=Oswald:wght@700&family=Roboto+ Laje&display=swap');
 
 @font-face {
   
-  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Biryani:wght@200&family=Noto+Serif+Armenian:wght@600&family=Oswald:wght@700&family=Roboto+ Laje&display=swap');
+ 
 
      font-family: 'Android'; 
      src: url('../fontes/idroid.otf')format('opentype');
